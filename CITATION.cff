@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sahni_SPG_analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Julia
+    family-names: Kaiser
+    email: juk4004@med.cornell.edu
+    orcid: 'https://orcid.org/0000-0001-5142-6050'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19409800
+repository-code: 'https://github.com/jkaiser87/Sahni_SPG_analysis'
+url: 'https://github.com/jkaiser87/Sahni_SPG_analysis'
+abstract: >-
+  Sahni lab SPG analysis for Kaiser et al., 2025 https://www.researchsquare.com/article/rs-6150344/v1
+license: MIT
+commit: f081dedce0ee6b4c75f1e6f22d07b699ee815a02
+version: v1.0.0
+date-released: '2026-04-01'
